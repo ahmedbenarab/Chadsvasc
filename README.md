@@ -9,7 +9,7 @@ donc c'est un score qu'on utilise nous medecin pour décider , est ce qu'on doit
 
 
 |index |signigfication |points|
-|-----|----------------|------|
+|------|---------------|------|
 |C|insuffisance cardiaque (le C étant pour le terme anglais « Congestive heart failure »)|01|
 |H|Hypertension arterielle|01|
 |A|	âge supérieur à 75 ans|02|
